@@ -1,11 +1,7 @@
 {
-  "name": "gatsby-starter-spectral",
+  "name": "Aga Brudny Electric Band website",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Spectral by HTML5 UP",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-spectral.git"
-  },
+  "description": "Aga Brudny Band music website",
   "author": {
     "name": "Piotr Brudny",
     "email": "pbrudny@gmail.com"
@@ -39,13 +35,9 @@
     "rimraf": "^3.0.2"
   },
   "keywords": [
-    "gatsby",
-    "gatsby-starter",
-    "gatsby-starter-spectral"
+    "aga",
+    "jazz",
+    "brudny"
   ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-spectral/issues"
-  },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-spectral#readme"
+  "license": "MIT"
 }
