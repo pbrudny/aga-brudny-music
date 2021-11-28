@@ -114,9 +114,9 @@ $palette: (
                 fg-bold: #ffffff,
                 fg: mix(#ff6d83, #ffffff, 25%),
                 fg-light: mix(#ff6d83, #ffffff, 40%),
-                border: rgba(0, 0, 0, 0.125),
+                border: rgba(0, 0, 0, 0),
                 border-bg: rgba(255, 255, 255, 0.075),
-                border2: rgba(0, 0, 0, 0.25),
+                border2: rgba(0, 0, 0, 0),
                 border2-bg: rgba(255, 255, 255, 0.2)
         ),
         accent9: (
@@ -124,9 +124,9 @@ $palette: (
                 fg-bold: #ffffff,
                 fg: mix(#F9486B, #ffffff, 25%),
                 fg-light: mix(#F9486B, #ffffff, 40%),
-                border: rgba(0, 0, 0, 0.125),
+                border: rgba(0, 0, 0, 0),
                 border-bg: rgba(255, 255, 255, 0.075),
-                border2: rgba(0, 0, 0, 0.25),
+                border2: rgba(0, 0, 0, 0),
                 border2-bg: rgba(255, 255, 255, 0.2)
         ),
 );

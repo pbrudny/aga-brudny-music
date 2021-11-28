@@ -1,5 +1,5 @@
 {
-  "name": "Aga Brudny Electric Band website",
+  "name": "Aga Brudny music",
   "version": "0.0.1",
   "description": "Aga Brudny Band music website",
   "author": {
@@ -33,6 +33,11 @@
     "gh-pages": "^2.0.1",
     "prettier": "^1.17.0",
     "rimraf": "^3.0.2"
+  },
+  "engines": {
+    "node": "14.15.0",
+    "yarn": ">=1.22.0",
+    "npm": ">=6.14.8"
   },
   "keywords": [
     "aga",
