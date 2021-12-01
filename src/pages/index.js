@@ -36,16 +36,18 @@ const IndexPage = () => (
       <div className='inner'>
         <header className='major'>
           <h2>
-            Arcu aliquet vel lobortis ata nisl
-            <br />
-            eget augue amet aliquet nisl cep donec
+            Aga Brudny- jazz flutist, glissando flutist, composer.
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-            eleifend
-            <br />
-            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-            ullamcorper.
+            Graduated from the Jazz Departament of Music Conservatory in Katowice Poland. <br />
+          </p>
+          <p>
+            Her first album PLAYGROUND is a playful expression of her colorful music world where contemporary jazz
+            blends with fusion, funk, rock, electro, folk and classical motives. <br />
+          </p>
+          <p>
+            Using electric gear as well as Glissando Headjoint by Robert Dick Aga Brudny shows the flute in an unusual
+            way: fresh, energetic, full of colour and emotional expression.
           </p>
         </header>
         <ul className='icons major'>
@@ -100,13 +102,13 @@ const IndexPage = () => (
             Music
           </h2>
           <p>
-            HearNow: <a href={"https://agabrudny.hearnow.com/"} target={"_blank"} rel={"noreferrer"}>Listen</a>
+            HearNow: <a href={'https://agabrudny.hearnow.com/'} target={'_blank'} rel={'noreferrer'}>Listen</a>
           </p>
           <p>
-            Spotify: <a href={"https://spotify.com/"} target={"_blank"} rel={"noreferrer"}>Listen</a>
+            Spotify: <a href={'https://spotify.com/'} target={'_blank'} rel={'noreferrer'}>Listen</a>
           </p>
           <p>
-            Klamka: <a href={"https://klamkamusicrecords.com/sklep//"} target={"_blank"} rel={"noreferrer"}>Buy CD</a>
+            Klamka: <a href={'https://klamkamusicrecords.com/sklep//'} target={'_blank'} rel={'noreferrer'}>Buy CD</a>
           </p>
         </div>
       </section>

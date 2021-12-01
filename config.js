@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Aga Brudny',
-  subHeading: 'Jazz flutist. Super hero',
+  subHeading: 'Jazz flutist, glissando flutist, composer',
   // social
   socialLinks: [
     {
