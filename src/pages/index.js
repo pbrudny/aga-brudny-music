@@ -56,6 +56,8 @@ const IndexPage = () => (
               <a
                 href={'https://www.instagram.com/aga_brudny_music'}
                 className='icon brands fa-instagram'
+                target={'_blank'}
+                rel={'noreferrer'}
                 style={{ 'fontSize': 'xxx-large' }}
               />
             </span>
@@ -65,6 +67,8 @@ const IndexPage = () => (
               <a
                 href={'https://www.facebook.com/AgaBrudnyMusic'}
                 className='icon brands fa-facebook'
+                target={'_blank'}
+                rel={'noreferrer'}
                 style={{ 'fontSize': 'xxx-large' }}
               />
             </span>
@@ -74,6 +78,8 @@ const IndexPage = () => (
               <a
                 href={'https://www.youtube.com/channel/UCgJQk6zbHaVItECPAdGutmg'}
                 className='icon brands fa-youtube'
+                target={'_blank'}
+                rel={'noreferrer'}
                 style={{ 'fontSize': 'xxx-large' }}
               />
             </span>
@@ -83,6 +89,7 @@ const IndexPage = () => (
               <a
                 href={'mailto:aga.brudny@gmail.com'}
                 target={'_blank'}
+                rel={'noreferrer'}
                 className='icon fa-envelope'
                 style={{ 'fontSize': 'xxx-large' }}
               />
