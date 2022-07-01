@@ -128,7 +128,9 @@ const IndexPage = () => (
             Events
           </h2>
           <p>
-            Coming soon...
+            6/7.07.2022 0:30 - 01:30 <a href={"https://slot.art.pl/pl/wydarzenia/aga-brudny-electric-band/"}
+               target={"blank"}> Concert at Slot Art Festival</a> in Lubiąż (Poland)
+
           </p>
         </div>
       </section>
