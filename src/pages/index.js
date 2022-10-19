@@ -128,11 +128,16 @@ const IndexPage = () => (
             Events
           </h2>
           <p>
-            29.09.2022 19:00 <a href={"https://www.facebook.com/events/1339835023090653/?ref=newsfeed"}
-               target={"blank"}> Concert at Młody Jazz</a> in Dom Kultury Ruda Śląska - Bielszowice (Poland)
+            6/7.07.2022 0:30 - 01:30 <a href={"https://slot.art.pl/pl/wydarzenia/aga-brudny-electric-band/"}
+                                        target={"blank"}> Concert at Slot Art Festival</a> in Lubiąż (Poland)
 
           </p>
-
+          <p>
+            25.11.2022  8:00 pm <a
+            href={"https://metrumjazz.pl/event/piatawka-prezentuje-aga-brudny-electric-band/"}
+            target={"blank"}
+          >Metrum Jazz Club Bielsko-Biała</a>
+          </p>
         </div>
       </section>
       <section className='spotlight'>
