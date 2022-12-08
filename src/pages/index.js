@@ -128,9 +128,10 @@ const IndexPage = () => (
             Events
           </h2>
           <p>
-            6/7.07.2022 0:30 - 01:30 <a href={"https://slot.art.pl/pl/wydarzenia/aga-brudny-electric-band/"}
-                                        target={"blank"}> Concert at Slot Art Festival</a> in Lubiąż (Poland)
-
+            01.02.2023 <a
+            href={"https://www.facebook.com/bardzobardzobar/events"}
+            target={"blank"}
+          >BARdzo Bardzo</a> Warszawa
           </p>
           <p>
             25.11.2022  8:00 pm <a
@@ -138,6 +139,12 @@ const IndexPage = () => (
             target={"blank"}
           >Metrum Jazz Club Bielsko-Biała</a>
           </p>
+          <p>
+            6/7.07.2022 0:30 - 01:30 <a href={"https://slot.art.pl/pl/wydarzenia/aga-brudny-electric-band/"}
+                                        target={"blank"}> Concert at Slot Art Festival</a> in Lubiąż (Poland)
+
+          </p>
+
         </div>
       </section>
       <section className='spotlight'>
